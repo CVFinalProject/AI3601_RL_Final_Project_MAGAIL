@@ -14,8 +14,8 @@ python Visualize/multiagent_visual.py
 # Experiments
 ```
 python psgail_train_basic.py
-psgail_train_bc.py
-psgail_train_full.py
+python psgail_train_bc.py
+python psgail_train_full.py
 ```
 # experts_53_cleaned.npy
 https://jbox.sjtu.edu.cn/l/z1Hq5a (提取码：jung)

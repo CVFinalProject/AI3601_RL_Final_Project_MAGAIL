@@ -1,4 +1,6 @@
 To see the history of development, please visit https://github.com/oldpaws/NGSIM_SMARTS.
+![img](https://github.com/oldpaws/AI3601_RL_Final_Project_MAGAIL/blob/main/demo/10_agents_0.gif)
+
 
 # Benchmarks
 ```

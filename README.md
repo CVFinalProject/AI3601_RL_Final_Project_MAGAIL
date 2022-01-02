@@ -1,13 +1,14 @@
 To see the history of development, please visit https://github.com/oldpaws/NGSIM_SMARTS.
 
-# 10 Agents
+# Demo
+## 10 Agents
 
 ![img](https://github.com/oldpaws/AI3601_RL_Final_Project_MAGAIL/blob/main/demo/10_agents_0.gif)
 
 ![img](https://github.com/oldpaws/AI3601_RL_Final_Project_MAGAIL/blob/main/demo/10_agents_1.gif)
 
 
-# 300 Agetns
+## 300 Agetns
 ![img](https://github.com/oldpaws/AI3601_RL_Final_Project_MAGAIL/blob/main/demo/300_agents.gif)
 
 

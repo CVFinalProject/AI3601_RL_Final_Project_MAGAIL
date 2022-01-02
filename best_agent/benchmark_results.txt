@@ -1,0 +1,29 @@
+psgail_1557_gail_2_260_old_best_53.model
+Average Frechet Distance: 63.533723286525706
+Average Distance Travelled: 243.27960304940157
+Success Rate: 0.595449500554939
+
+psgail_1772_gail_2_264_old_best_53.model
+Average Frechet Distance: 51.99174296272629
+Average Distance Travelled: 255.2405674310502
+Success Rate: 0.6514983351831298
+
+psgail_1221_gail_2_943_931_941_cpu.pt
+Average Frechet Distance: 73.34188714218737
+Average Distance Travelled: 232.99353401315335
+Success Rate: 0.5457534246575343
+
+psgail_1219_gail_2_895_931_967_cpu.pt
+Average Frechet Distance: 76.67974239694301
+Average Distance Travelled: 229.49846935362635
+Success Rate: 0.5461031833150384
+
+psgail_1220_gail_2_927_944_920_cpu.pt
+Average Frechet Distance: 73.42993106223454
+Average Distance Travelled: 232.8953028749918
+Success Rate: 0.5578082191780822
+
+psgail_986_gail_2_855_869_933.model
+Average Frechet Distance: 74.33327177655201
+Average Distance Travelled: 231.64199129366705
+Success Rate: 0.5605479452054795

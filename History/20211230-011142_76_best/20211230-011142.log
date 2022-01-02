@@ -1,0 +1,243 @@
+2021-12-30 01:11:42,084 - Start print log
+2021-12-30 01:11:46,194 - policy
+2021-12-30 01:11:46,200 - None
+2021-12-30 01:11:46,200 - value
+2021-12-30 01:11:46,202 - None
+2021-12-30 01:11:46,202 - discriminator
+2021-12-30 01:11:46,208 - None
+2021-12-30 01:11:46,353 - batch_size 4096
+2021-12-30 01:11:46,353 - stage: gail, agents num 2
+2021-12-30 01:12:21,900 - St: gail, Ep: 1055, Rew: 127.7511, ag_num: 2, time: 116.2222, final: 210.2309, finish: 0.5746, pol_l: -0.0061, kl: 0.0046, val_l: 15.2529, ag_rew: 0.4918, ex_rew: 1.3694, dis_l: 0.9545
+2021-12-30 01:13:55,521 - St: gail, Ep: 1056, Rew: 134.9062, ag_num: 2, time: 178.2294, final: 252.0528, finish: 0.8074, pol_l: -0.0037, kl: 0.0018, val_l: 17.5265, ag_rew: 0.4825, ex_rew: 1.3532, dis_l: 0.9595
+2021-12-30 01:13:55,521 - stage gail, checkpoints establish, episode 1056
+2021-12-30 01:15:27,299 - St: gail, Ep: 1057, Rew: 142.9966, ag_num: 2, time: 186.8302, final: 263.4009, finish: 0.7956, pol_l: -0.0038, kl: 0.0017, val_l: 16.6605, ag_rew: 0.4899, ex_rew: 1.3538, dis_l: 0.9664
+2021-12-30 01:15:27,299 - stage gail, checkpoints establish, episode 1057
+2021-12-30 01:16:56,185 - St: gail, Ep: 1058, Rew: 153.7311, ag_num: 2, time: 205.0206, final: 269.9591, finish: 0.8215, pol_l: -0.0037, kl: 0.0016, val_l: 14.2729, ag_rew: 0.4852, ex_rew: 1.3602, dis_l: 0.959
+2021-12-30 01:16:56,185 - stage gail, checkpoints establish, episode 1058
+2021-12-30 01:18:33,381 - St: gail, Ep: 1059, Rew: 152.5565, ag_num: 2, time: 188.3824, final: 255.9805, finish: 0.7981, pol_l: -0.0037, kl: 0.0018, val_l: 16.0632, ag_rew: 0.4989, ex_rew: 1.3561, dis_l: 0.979
+2021-12-30 01:18:33,382 - stage gail, checkpoints establish, episode 1059
+2021-12-30 01:20:09,281 - St: gail, Ep: 1060, Rew: 140.4284, ag_num: 2, time: 183.4234, final: 264.3473, finish: 0.8355, pol_l: -0.0043, kl: 0.0021, val_l: 15.5988, ag_rew: 0.5007, ex_rew: 1.3535, dis_l: 0.9733
+2021-12-30 01:20:09,282 - stage gail, checkpoints establish, episode 1060
+2021-12-30 01:21:45,381 - St: gail, Ep: 1061, Rew: 142.3212, ag_num: 2, time: 179.1441, final: 259.688, finish: 0.7736, pol_l: -0.0045, kl: 0.0024, val_l: 17.3056, ag_rew: 0.4913, ex_rew: 1.3652, dis_l: 0.9553
+2021-12-30 01:23:16,663 - St: gail, Ep: 1062, Rew: 152.7491, ag_num: 2, time: 193.2788, final: 261.9755, finish: 0.8264, pol_l: -0.004, kl: 0.002, val_l: 15.6629, ag_rew: 0.495, ex_rew: 1.3189, dis_l: 0.9787
+2021-12-30 01:23:16,663 - stage gail, checkpoints establish, episode 1062
+2021-12-30 01:24:52,182 - St: gail, Ep: 1063, Rew: 149.8878, ag_num: 2, time: 197.7, final: 261.0838, finish: 0.8119, pol_l: -0.0039, kl: 0.0028, val_l: 15.3601, ag_rew: 0.4955, ex_rew: 1.3466, dis_l: 0.977
+2021-12-30 01:24:52,182 - stage gail, checkpoints establish, episode 1063
+2021-12-30 01:26:26,666 - St: gail, Ep: 1064, Rew: 136.109, ag_num: 2, time: 172.8, final: 256.5673, finish: 0.7989, pol_l: -0.0042, kl: 0.0021, val_l: 17.459, ag_rew: 0.4834, ex_rew: 1.3527, dis_l: 0.9587
+2021-12-30 01:28:04,231 - St: gail, Ep: 1065, Rew: 157.2239, ag_num: 2, time: 181.9717, final: 255.6808, finish: 0.7939, pol_l: -0.0043, kl: 0.0025, val_l: 15.8349, ag_rew: 0.4852, ex_rew: 1.3705, dis_l: 0.955
+2021-12-30 01:29:44,276 - St: gail, Ep: 1066, Rew: 159.533, ag_num: 2, time: 192.5714, final: 259.4962, finish: 0.7949, pol_l: -0.0037, kl: 0.002, val_l: 15.7287, ag_rew: 0.5009, ex_rew: 1.3536, dis_l: 0.9794
+2021-12-30 01:31:20,418 - St: gail, Ep: 1067, Rew: 127.6358, ag_num: 2, time: 175.2941, final: 253.4039, finish: 0.7785, pol_l: -0.0039, kl: 0.0023, val_l: 17.3194, ag_rew: 0.4952, ex_rew: 1.3491, dis_l: 0.9701
+2021-12-30 01:33:04,645 - St: gail, Ep: 1068, Rew: 141.4096, ag_num: 2, time: 170.3246, final: 241.3285, finish: 0.7199, pol_l: -0.0043, kl: 0.0019, val_l: 15.5401, ag_rew: 0.5074, ex_rew: 1.3228, dis_l: 0.9909
+2021-12-30 01:34:41,287 - St: gail, Ep: 1069, Rew: 150.3296, ag_num: 2, time: 181.0619, final: 259.1332, finish: 0.7904, pol_l: -0.0038, kl: 0.0038, val_l: 14.9873, ag_rew: 0.4988, ex_rew: 1.3341, dis_l: 0.9752
+2021-12-30 01:36:20,845 - St: gail, Ep: 1070, Rew: 152.6651, ag_num: 2, time: 193.165, final: 247.9229, finish: 0.7514, pol_l: -0.0043, kl: 0.0023, val_l: 15.3555, ag_rew: 0.4986, ex_rew: 1.3282, dis_l: 0.9815
+2021-12-30 01:37:52,279 - St: gail, Ep: 1071, Rew: 151.0966, ag_num: 2, time: 199.9703, final: 278.3123, finish: 0.9118, pol_l: -0.0041, kl: 0.0018, val_l: 15.9167, ag_rew: 0.4917, ex_rew: 1.3355, dis_l: 0.9694
+2021-12-30 01:37:52,279 - stage gail, checkpoints establish, episode 1071
+2021-12-30 01:39:29,969 - St: gail, Ep: 1072, Rew: 122.2573, ag_num: 2, time: 148.7385, final: 255.5408, finish: 0.7561, pol_l: -0.0041, kl: 0.002, val_l: 17.4625, ag_rew: 0.4936, ex_rew: 1.3448, dis_l: 0.9611
+2021-12-30 01:39:29,969 - stage gail, checkpoints establish, episode 1072
+2021-12-30 01:41:09,529 - St: gail, Ep: 1073, Rew: 144.8805, ag_num: 2, time: 175.9818, final: 259.907, finish: 0.7965, pol_l: -0.004, kl: 0.0024, val_l: 14.5825, ag_rew: 0.5023, ex_rew: 1.3253, dis_l: 0.9838
+2021-12-30 01:42:49,276 - St: gail, Ep: 1074, Rew: 140.2667, ag_num: 2, time: 179.2655, final: 262.2209, finish: 0.8181, pol_l: -0.0043, kl: 0.0024, val_l: 15.9314, ag_rew: 0.4985, ex_rew: 1.3511, dis_l: 0.9675
+2021-12-30 01:44:27,409 - St: gail, Ep: 1075, Rew: 144.9867, ag_num: 2, time: 179.6228, final: 269.3456, finish: 0.8383, pol_l: -0.0043, kl: 0.0023, val_l: 14.9436, ag_rew: 0.4902, ex_rew: 1.3447, dis_l: 0.9623
+2021-12-30 01:44:27,409 - stage gail, checkpoints establish, episode 1075
+2021-12-30 01:45:59,056 - St: gail, Ep: 1076, Rew: 144.6647, ag_num: 2, time: 198.767, final: 271.6195, finish: 0.8852, pol_l: -0.0046, kl: 0.0029, val_l: 16.3127, ag_rew: 0.4917, ex_rew: 1.3593, dis_l: 0.9652
+2021-12-30 01:45:59,056 - stage gail, checkpoints establish, episode 1076
+2021-12-30 01:47:32,140 - St: gail, Ep: 1077, Rew: 157.4908, ag_num: 2, time: 192.6373, final: 260.7731, finish: 0.8192, pol_l: -0.004, kl: 0.002, val_l: 14.598, ag_rew: 0.4985, ex_rew: 1.3428, dis_l: 0.9776
+2021-12-30 01:49:08,470 - St: gail, Ep: 1078, Rew: 144.1772, ag_num: 2, time: 172.5526, final: 248.3268, finish: 0.7748, pol_l: -0.0042, kl: 0.0018, val_l: 14.4437, ag_rew: 0.4963, ex_rew: 1.3313, dis_l: 0.9733
+2021-12-30 01:50:44,204 - St: gail, Ep: 1079, Rew: 167.1859, ag_num: 2, time: 199.1188, final: 271.0035, finish: 0.8699, pol_l: -0.0044, kl: 0.0029, val_l: 13.09, ag_rew: 0.4834, ex_rew: 1.3553, dis_l: 0.9568
+2021-12-30 01:50:44,204 - stage gail, checkpoints establish, episode 1079
+2021-12-30 01:52:14,864 - St: gail, Ep: 1080, Rew: 161.483, ag_num: 2, time: 194.1058, final: 270.6761, finish: 0.8747, pol_l: -0.0042, kl: 0.0022, val_l: 15.0261, ag_rew: 0.4836, ex_rew: 1.3629, dis_l: 0.9514
+2021-12-30 01:52:14,864 - stage gail, checkpoints establish, episode 1080
+2021-12-30 01:53:51,412 - St: gail, Ep: 1081, Rew: 158.2404, ag_num: 2, time: 186.3774, final: 273.8145, finish: 0.8872, pol_l: -0.0041, kl: 0.0017, val_l: 13.9302, ag_rew: 0.4927, ex_rew: 1.3526, dis_l: 0.9655
+2021-12-30 01:53:51,412 - stage gail, checkpoints establish, episode 1081
+2021-12-30 01:55:24,887 - St: gail, Ep: 1082, Rew: 158.5945, ag_num: 2, time: 205.39, final: 262.4134, finish: 0.8051, pol_l: -0.0039, kl: 0.0022, val_l: 14.1955, ag_rew: 0.5048, ex_rew: 1.3084, dis_l: 0.9943
+2021-12-30 01:57:01,040 - St: gail, Ep: 1083, Rew: 159.5858, ag_num: 2, time: 193.6408, final: 255.2258, finish: 0.813, pol_l: -0.0044, kl: 0.0024, val_l: 14.0923, ag_rew: 0.4986, ex_rew: 1.3414, dis_l: 0.9823
+2021-12-30 01:58:37,740 - St: gail, Ep: 1084, Rew: 165.7229, ag_num: 2, time: 210.1, final: 268.3748, finish: 0.8604, pol_l: -0.0044, kl: 0.0023, val_l: 14.9088, ag_rew: 0.5018, ex_rew: 1.3264, dis_l: 0.9901
+2021-12-30 02:00:09,858 - St: gail, Ep: 1085, Rew: 162.2856, ag_num: 2, time: 200.8614, final: 273.4002, finish: 0.8473, pol_l: -0.004, kl: 0.0021, val_l: 13.7192, ag_rew: 0.4936, ex_rew: 1.3395, dis_l: 0.9757
+2021-12-30 02:01:42,749 - St: gail, Ep: 1086, Rew: 175.6504, ag_num: 2, time: 211.4526, final: 264.9168, finish: 0.8728, pol_l: -0.0041, kl: 0.0024, val_l: 15.2174, ag_rew: 0.5025, ex_rew: 1.3085, dis_l: 0.9984
+2021-12-30 02:03:13,243 - St: gail, Ep: 1087, Rew: 149.7044, ag_num: 2, time: 191.486, final: 270.4178, finish: 0.8698, pol_l: -0.0048, kl: 0.0026, val_l: 15.4847, ag_rew: 0.4919, ex_rew: 1.3454, dis_l: 0.9754
+2021-12-30 02:04:51,565 - St: gail, Ep: 1088, Rew: 149.7007, ag_num: 2, time: 181.3636, final: 261.5543, finish: 0.7999, pol_l: -0.0039, kl: 0.0027, val_l: 15.9271, ag_rew: 0.5218, ex_rew: 1.3282, dis_l: 1.0119
+2021-12-30 02:06:29,329 - St: gail, Ep: 1089, Rew: 150.907, ag_num: 2, time: 174.313, final: 253.9561, finish: 0.7894, pol_l: -0.0047, kl: 0.0025, val_l: 16.6077, ag_rew: 0.5027, ex_rew: 1.3461, dis_l: 0.9832
+2021-12-30 02:08:03,818 - St: gail, Ep: 1090, Rew: 175.6115, ag_num: 2, time: 219.2211, final: 276.4644, finish: 0.8814, pol_l: -0.0043, kl: 0.0019, val_l: 14.6927, ag_rew: 0.5012, ex_rew: 1.3283, dis_l: 0.9889
+2021-12-30 02:08:03,818 - stage gail, checkpoints establish, episode 1090
+2021-12-30 02:09:40,346 - St: gail, Ep: 1091, Rew: 148.6402, ag_num: 2, time: 184.4775, final: 270.9099, finish: 0.8387, pol_l: -0.0046, kl: 0.0025, val_l: 15.1773, ag_rew: 0.5149, ex_rew: 1.3047, dis_l: 1.0105
+2021-12-30 02:11:19,700 - St: gail, Ep: 1092, Rew: 155.2525, ag_num: 2, time: 193.3679, final: 257.4213, finish: 0.7962, pol_l: -0.0043, kl: 0.0022, val_l: 15.3663, ag_rew: 0.5149, ex_rew: 1.2937, dis_l: 1.0182
+2021-12-30 02:12:54,294 - St: gail, Ep: 1093, Rew: 155.1398, ag_num: 2, time: 205.8529, final: 255.0396, finish: 0.8177, pol_l: -0.0048, kl: 0.0022, val_l: 15.5461, ag_rew: 0.5018, ex_rew: 1.343, dis_l: 0.9884
+2021-12-30 02:14:28,890 - St: gail, Ep: 1094, Rew: 160.0506, ag_num: 2, time: 196.549, final: 264.4484, finish: 0.8258, pol_l: -0.0047, kl: 0.0025, val_l: 15.1724, ag_rew: 0.5227, ex_rew: 1.2961, dis_l: 1.0271
+2021-12-30 02:16:08,445 - St: gail, Ep: 1095, Rew: 144.8532, ag_num: 2, time: 195.8302, final: 272.8682, finish: 0.8866, pol_l: -0.0044, kl: 0.0018, val_l: 16.4827, ag_rew: 0.517, ex_rew: 1.2981, dis_l: 1.0189
+2021-12-30 02:16:08,445 - stage gail, checkpoints establish, episode 1095
+2021-12-30 02:17:46,965 - St: gail, Ep: 1096, Rew: 133.3704, ag_num: 2, time: 177.7155, final: 266.4597, finish: 0.8173, pol_l: -0.0048, kl: 0.0023, val_l: 16.1811, ag_rew: 0.4949, ex_rew: 1.336, dis_l: 0.9836
+2021-12-30 02:19:19,032 - St: gail, Ep: 1097, Rew: 144.0777, ag_num: 2, time: 187.5185, final: 260.7384, finish: 0.8062, pol_l: -0.0046, kl: 0.0025, val_l: 16.0569, ag_rew: 0.5009, ex_rew: 1.3312, dis_l: 0.9909
+2021-12-30 02:20:57,386 - St: gail, Ep: 1098, Rew: 149.2653, ag_num: 2, time: 187.7238, final: 272.0337, finish: 0.8862, pol_l: -0.0044, kl: 0.0023, val_l: 14.0192, ag_rew: 0.5169, ex_rew: 1.2969, dis_l: 1.0195
+2021-12-30 02:20:57,386 - stage gail, checkpoints establish, episode 1098
+2021-12-30 02:22:33,725 - St: gail, Ep: 1099, Rew: 138.9605, ag_num: 2, time: 183.9196, final: 258.166, finish: 0.8001, pol_l: -0.0046, kl: 0.0021, val_l: 16.6169, ag_rew: 0.5157, ex_rew: 1.327, dis_l: 1.0046
+2021-12-30 02:24:11,631 - St: gail, Ep: 1100, Rew: 154.1359, ag_num: 2, time: 176.2054, final: 269.7237, finish: 0.8769, pol_l: -0.0049, kl: 0.0027, val_l: 16.9405, ag_rew: 0.5117, ex_rew: 1.3371, dis_l: 0.9934
+2021-12-30 02:24:11,631 - stage gail, checkpoints establish, episode 1100
+2021-12-30 02:25:51,186 - St: gail, Ep: 1101, Rew: 139.041, ag_num: 2, time: 176.7565, final: 254.9876, finish: 0.7996, pol_l: -0.0048, kl: 0.0029, val_l: 16.0172, ag_rew: 0.5142, ex_rew: 1.3127, dis_l: 1.0137
+2021-12-30 02:27:27,720 - St: gail, Ep: 1102, Rew: 127.2629, ag_num: 2, time: 181.4435, final: 251.2429, finish: 0.7617, pol_l: -0.0046, kl: 0.0026, val_l: 18.0004, ag_rew: 0.52, ex_rew: 1.2913, dis_l: 1.0288
+2021-12-30 02:29:07,619 - St: gail, Ep: 1103, Rew: 139.9765, ag_num: 2, time: 182.2636, final: 265.7624, finish: 0.8269, pol_l: -0.0047, kl: 0.0021, val_l: 14.9514, ag_rew: 0.5122, ex_rew: 1.3248, dis_l: 1.0056
+2021-12-30 02:30:53,124 - St: gail, Ep: 1104, Rew: 152.0952, ag_num: 2, time: 207.4, final: 254.4952, finish: 0.7671, pol_l: -0.0007, kl: 0.0097, val_l: 14.3324, ag_rew: 0.5286, ex_rew: 1.3149, dis_l: 1.0272
+2021-12-30 02:32:40,234 - St: gail, Ep: 1105, Rew: 144.638, ag_num: 2, time: 192.885, final: 269.9951, finish: 0.8476, pol_l: -0.0042, kl: 0.003, val_l: 15.7874, ag_rew: 0.5186, ex_rew: 1.305, dis_l: 1.0213
+2021-12-30 02:34:22,092 - St: gail, Ep: 1106, Rew: 127.473, ag_num: 2, time: 197.1786, final: 258.3077, finish: 0.7954, pol_l: -0.005, kl: 0.0029, val_l: 15.0681, ag_rew: 0.5123, ex_rew: 1.3047, dis_l: 1.0152
+2021-12-30 02:36:06,691 - St: gail, Ep: 1107, Rew: 144.0823, ag_num: 2, time: 193.9135, final: 264.1836, finish: 0.8011, pol_l: -0.0053, kl: 0.0024, val_l: 14.823, ag_rew: 0.5111, ex_rew: 1.3058, dis_l: 1.0212
+2021-12-30 02:37:49,182 - St: gail, Ep: 1108, Rew: 149.1726, ag_num: 2, time: 200.2115, final: 257.6324, finish: 0.7765, pol_l: -0.0055, kl: 0.0038, val_l: 13.0516, ag_rew: 0.5175, ex_rew: 1.2961, dis_l: 1.0268
+2021-12-30 02:39:34,159 - St: gail, Ep: 1109, Rew: 146.7547, ag_num: 2, time: 200.5288, final: 257.1354, finish: 0.7922, pol_l: -0.0056, kl: 0.0027, val_l: 15.5393, ag_rew: 0.5096, ex_rew: 1.3114, dis_l: 1.013
+2021-12-30 02:41:23,172 - St: gail, Ep: 1110, Rew: 133.7978, ag_num: 2, time: 174.0756, final: 236.0681, finish: 0.6951, pol_l: -0.005, kl: 0.004, val_l: 17.0462, ag_rew: 0.5215, ex_rew: 1.2877, dis_l: 1.0273
+2021-12-30 02:43:08,502 - St: gail, Ep: 1111, Rew: 130.6049, ag_num: 2, time: 176.7265, final: 236.1254, finish: 0.6987, pol_l: -0.0038, kl: 0.0048, val_l: 16.2492, ag_rew: 0.5234, ex_rew: 1.2942, dis_l: 1.0276
+2021-12-30 02:44:56,843 - St: gail, Ep: 1112, Rew: 126.0647, ag_num: 2, time: 167.8264, final: 220.4018, finish: 0.6434, pol_l: -0.0048, kl: 0.0055, val_l: 19.7084, ag_rew: 0.5335, ex_rew: 1.2749, dis_l: 1.0497
+2021-12-30 02:46:43,396 - St: gail, Ep: 1113, Rew: 144.4354, ag_num: 2, time: 177.8609, final: 254.5878, finish: 0.8024, pol_l: -0.0044, kl: 0.0026, val_l: 15.4264, ag_rew: 0.5167, ex_rew: 1.2907, dis_l: 1.0238
+2021-12-30 02:48:26,890 - St: gail, Ep: 1114, Rew: 144.0847, ag_num: 2, time: 188.964, final: 253.1712, finish: 0.7706, pol_l: -0.005, kl: 0.0025, val_l: 15.1997, ag_rew: 0.5132, ex_rew: 1.3027, dis_l: 1.0082
+2021-12-30 02:50:10,634 - St: gail, Ep: 1115, Rew: 134.6922, ag_num: 2, time: 166.4918, final: 256.0785, finish: 0.7676, pol_l: -0.0046, kl: 0.0029, val_l: 17.3886, ag_rew: 0.5023, ex_rew: 1.3152, dis_l: 0.9931
+2021-12-30 02:51:56,223 - St: gail, Ep: 1116, Rew: 137.6912, ag_num: 2, time: 177.3652, final: 259.6071, finish: 0.8042, pol_l: -0.0042, kl: 0.0028, val_l: 17.28, ag_rew: 0.5103, ex_rew: 1.3144, dis_l: 1.0139
+2021-12-30 02:53:41,366 - St: gail, Ep: 1117, Rew: 152.5313, ag_num: 2, time: 185.5405, final: 263.5853, finish: 0.8273, pol_l: -0.0046, kl: 0.0025, val_l: 15.4831, ag_rew: 0.5159, ex_rew: 1.3075, dis_l: 1.0192
+2021-12-30 02:55:20,528 - St: gail, Ep: 1118, Rew: 151.4016, ag_num: 2, time: 207.8878, final: 270.746, finish: 0.8871, pol_l: -0.0025, kl: 0.0092, val_l: 14.6251, ag_rew: 0.5217, ex_rew: 1.2857, dis_l: 1.032
+2021-12-30 02:55:20,528 - stage gail, checkpoints establish, episode 1118
+2021-12-30 02:57:03,631 - St: gail, Ep: 1119, Rew: 169.1026, ag_num: 2, time: 217.0968, final: 274.258, finish: 0.8946, pol_l: -0.0042, kl: 0.0038, val_l: 12.8269, ag_rew: 0.5257, ex_rew: 1.2792, dis_l: 1.046
+2021-12-30 02:57:03,631 - stage gail, checkpoints establish, episode 1119
+2021-12-30 02:58:49,793 - St: gail, Ep: 1120, Rew: 149.6126, ag_num: 2, time: 183.3684, final: 265.1162, finish: 0.836, pol_l: -0.0045, kl: 0.0021, val_l: 15.0563, ag_rew: 0.5057, ex_rew: 1.3185, dis_l: 1.0096
+2021-12-30 03:00:35,763 - St: gail, Ep: 1121, Rew: 151.2577, ag_num: 2, time: 204.5607, final: 263.6547, finish: 0.8498, pol_l: -0.0046, kl: 0.0028, val_l: 16.5725, ag_rew: 0.5291, ex_rew: 1.2912, dis_l: 1.0488
+2021-12-30 03:02:19,285 - St: gail, Ep: 1122, Rew: 144.9216, ag_num: 2, time: 193.6909, final: 263.2083, finish: 0.8202, pol_l: -0.0042, kl: 0.0027, val_l: 15.7877, ag_rew: 0.5283, ex_rew: 1.2854, dis_l: 1.0467
+2021-12-30 03:03:58,591 - St: gail, Ep: 1123, Rew: 162.2224, ag_num: 2, time: 202.2574, final: 262.015, finish: 0.8343, pol_l: -0.0048, kl: 0.003, val_l: 14.9958, ag_rew: 0.5125, ex_rew: 1.293, dis_l: 1.0242
+2021-12-30 03:05:48,612 - St: gail, Ep: 1124, Rew: 150.828, ag_num: 2, time: 179.7018, final: 244.6786, finish: 0.7565, pol_l: -0.0046, kl: 0.0028, val_l: 13.2785, ag_rew: 0.5293, ex_rew: 1.2891, dis_l: 1.04
+2021-12-30 03:07:29,095 - St: gail, Ep: 1125, Rew: 149.8557, ag_num: 2, time: 192.1478, final: 253.1363, finish: 0.7955, pol_l: -0.0048, kl: 0.0021, val_l: 14.582, ag_rew: 0.5164, ex_rew: 1.2803, dis_l: 1.0251
+2021-12-30 03:07:29,095 - stage gail, checkpoints establish, episode 1125
+2021-12-30 03:09:10,535 - St: gail, Ep: 1126, Rew: 151.1348, ag_num: 2, time: 191.3056, final: 272.5814, finish: 0.8693, pol_l: -0.0049, kl: 0.0032, val_l: 17.2522, ag_rew: 0.5213, ex_rew: 1.2793, dis_l: 1.0355
+2021-12-30 03:10:51,378 - St: gail, Ep: 1127, Rew: 152.5584, ag_num: 2, time: 196.5472, final: 251.2472, finish: 0.7968, pol_l: -0.0045, kl: 0.003, val_l: 14.0437, ag_rew: 0.5321, ex_rew: 1.2722, dis_l: 1.0432
+2021-12-30 03:12:33,355 - St: gail, Ep: 1128, Rew: 153.5179, ag_num: 2, time: 196.1667, final: 258.8423, finish: 0.8181, pol_l: -0.005, kl: 0.0037, val_l: 14.8853, ag_rew: 0.5398, ex_rew: 1.2121, dis_l: 1.0837
+2021-12-30 03:14:18,356 - St: gail, Ep: 1129, Rew: 155.4287, ag_num: 2, time: 192.2752, final: 257.2887, finish: 0.7717, pol_l: -0.0045, kl: 0.003, val_l: 14.7171, ag_rew: 0.5155, ex_rew: 1.2896, dis_l: 1.0271
+2021-12-30 03:15:59,335 - St: gail, Ep: 1130, Rew: 133.5857, ag_num: 2, time: 189.4649, final: 253.9813, finish: 0.7863, pol_l: -0.0047, kl: 0.0028, val_l: 17.295, ag_rew: 0.5228, ex_rew: 1.2785, dis_l: 1.037
+2021-12-30 03:17:41,356 - St: gail, Ep: 1131, Rew: 135.2685, ag_num: 2, time: 172.6441, final: 254.0941, finish: 0.7882, pol_l: -0.0047, kl: 0.0027, val_l: 17.534, ag_rew: 0.5299, ex_rew: 1.2709, dis_l: 1.0455
+2021-12-30 03:19:25,232 - St: gail, Ep: 1132, Rew: 143.9219, ag_num: 2, time: 191.2315, final: 255.0096, finish: 0.8209, pol_l: -0.0049, kl: 0.0034, val_l: 16.9698, ag_rew: 0.5248, ex_rew: 1.2622, dis_l: 1.0407
+2021-12-30 03:21:07,569 - St: gail, Ep: 1133, Rew: 148.745, ag_num: 2, time: 180.5739, final: 253.3329, finish: 0.7672, pol_l: -0.0027, kl: 0.0106, val_l: 16.0343, ag_rew: 0.5212, ex_rew: 1.2896, dis_l: 1.0328
+2021-12-30 03:22:48,188 - St: gail, Ep: 1134, Rew: 155.075, ag_num: 2, time: 208.02, final: 268.128, finish: 0.8593, pol_l: -0.0054, kl: 0.0037, val_l: 17.6727, ag_rew: 0.5243, ex_rew: 1.2936, dis_l: 1.0344
+2021-12-30 03:24:35,168 - St: gail, Ep: 1135, Rew: 132.1532, ag_num: 2, time: 172.1901, final: 260.645, finish: 0.8132, pol_l: -0.0048, kl: 0.0038, val_l: 17.5614, ag_rew: 0.5276, ex_rew: 1.2782, dis_l: 1.0401
+2021-12-30 03:26:28,583 - St: gail, Ep: 1136, Rew: 122.6569, ag_num: 2, time: 165.5802, final: 249.2273, finish: 0.7433, pol_l: -0.005, kl: 0.0026, val_l: 17.3618, ag_rew: 0.5416, ex_rew: 1.2675, dis_l: 1.0552
+2021-12-30 03:28:10,319 - St: gail, Ep: 1137, Rew: 143.123, ag_num: 2, time: 201.5096, final: 270.0348, finish: 0.8166, pol_l: -0.0048, kl: 0.0036, val_l: 17.7184, ag_rew: 0.5171, ex_rew: 1.2941, dis_l: 1.025
+2021-12-30 03:29:59,860 - St: gail, Ep: 1138, Rew: 130.6661, ag_num: 2, time: 166.8548, final: 250.5763, finish: 0.7422, pol_l: -0.0051, kl: 0.0026, val_l: 17.7585, ag_rew: 0.5347, ex_rew: 1.2744, dis_l: 1.0622
+2021-12-30 03:31:44,603 - St: gail, Ep: 1139, Rew: 161.5249, ag_num: 2, time: 211.86, final: 265.1952, finish: 0.8723, pol_l: -0.0052, kl: 0.0045, val_l: 16.4331, ag_rew: 0.5369, ex_rew: 1.2634, dis_l: 1.06
+2021-12-30 03:33:28,354 - St: gail, Ep: 1140, Rew: 127.6974, ag_num: 2, time: 172.7851, final: 259.2952, finish: 0.7789, pol_l: -0.0051, kl: 0.0031, val_l: 16.7116, ag_rew: 0.5259, ex_rew: 1.2755, dis_l: 1.0486
+2021-12-30 03:35:16,565 - St: gail, Ep: 1141, Rew: 141.3426, ag_num: 2, time: 192.5405, final: 259.8, finish: 0.8099, pol_l: -0.0051, kl: 0.0035, val_l: 17.5695, ag_rew: 0.5267, ex_rew: 1.2878, dis_l: 1.0386
+2021-12-30 03:36:59,278 - St: gail, Ep: 1142, Rew: 147.4846, ag_num: 2, time: 219.11, final: 250.7311, finish: 0.799, pol_l: -0.0053, kl: 0.0053, val_l: 15.4829, ag_rew: 0.5378, ex_rew: 1.2527, dis_l: 1.0682
+2021-12-30 03:38:49,264 - St: gail, Ep: 1143, Rew: 148.2153, ag_num: 2, time: 195.1204, final: 265.743, finish: 0.8496, pol_l: -0.005, kl: 0.004, val_l: 14.2845, ag_rew: 0.5238, ex_rew: 1.3104, dis_l: 1.0292
+2021-12-30 03:40:36,427 - St: gail, Ep: 1144, Rew: 150.8088, ag_num: 2, time: 238.3298, final: 258.4503, finish: 0.7967, pol_l: -0.0053, kl: 0.0032, val_l: 15.4993, ag_rew: 0.5428, ex_rew: 1.2622, dis_l: 1.0757
+2021-12-30 03:42:23,961 - St: gail, Ep: 1145, Rew: 138.732, ag_num: 2, time: 203.2018, final: 249.8498, finish: 0.7695, pol_l: -0.0051, kl: 0.004, val_l: 16.8018, ag_rew: 0.5206, ex_rew: 1.2909, dis_l: 1.0427
+2021-12-30 03:44:12,153 - St: gail, Ep: 1146, Rew: 133.1393, ag_num: 2, time: 182.1026, final: 259.6823, finish: 0.7917, pol_l: -0.0048, kl: 0.0036, val_l: 15.7888, ag_rew: 0.5225, ex_rew: 1.2631, dis_l: 1.0523
+2021-12-30 03:46:00,319 - St: gail, Ep: 1147, Rew: 141.5098, ag_num: 2, time: 198.8532, final: 259.9543, finish: 0.8319, pol_l: -0.0048, kl: 0.0035, val_l: 15.4422, ag_rew: 0.5238, ex_rew: 1.2734, dis_l: 1.0505
+2021-12-30 03:47:51,029 - St: gail, Ep: 1148, Rew: 154.8202, ag_num: 2, time: 205.8208, final: 261.4461, finish: 0.8155, pol_l: -0.0046, kl: 0.0031, val_l: 14.7694, ag_rew: 0.5369, ex_rew: 1.255, dis_l: 1.0688
+2021-12-30 03:49:41,484 - St: gail, Ep: 1149, Rew: 142.573, ag_num: 2, time: 207.8785, final: 257.1232, finish: 0.7756, pol_l: -0.0052, kl: 0.003, val_l: 14.3284, ag_rew: 0.5458, ex_rew: 1.2426, dis_l: 1.0789
+2021-12-30 03:51:25,212 - St: gail, Ep: 1150, Rew: 136.9935, ag_num: 2, time: 194.0893, final: 249.4346, finish: 0.7812, pol_l: -0.0052, kl: 0.004, val_l: 15.5354, ag_rew: 0.5399, ex_rew: 1.2523, dis_l: 1.0699
+2021-12-30 03:51:25,212 - stage gail, checkpoints establish, episode 1150
+2021-12-30 03:53:12,997 - St: gail, Ep: 1151, Rew: 143.3544, ag_num: 2, time: 174.7288, final: 245.0176, finish: 0.7432, pol_l: -0.0051, kl: 0.0033, val_l: 16.8711, ag_rew: 0.5409, ex_rew: 1.2141, dis_l: 1.0783
+2021-12-30 03:55:01,149 - St: gail, Ep: 1152, Rew: 157.456, ag_num: 2, time: 200.8679, final: 259.2426, finish: 0.7874, pol_l: -0.0057, kl: 0.0028, val_l: 14.0474, ag_rew: 0.5357, ex_rew: 1.2374, dis_l: 1.0571
+2021-12-30 03:56:53,128 - St: gail, Ep: 1153, Rew: 156.1994, ag_num: 2, time: 207.2718, final: 251.4479, finish: 0.8021, pol_l: -0.0045, kl: 0.003, val_l: 15.2354, ag_rew: 0.5321, ex_rew: 1.2138, dis_l: 1.0724
+2021-12-30 03:58:47,017 - St: gail, Ep: 1154, Rew: 135.9508, ag_num: 2, time: 181.0417, final: 258.0068, finish: 0.7623, pol_l: -0.0051, kl: 0.0029, val_l: 15.2283, ag_rew: 0.5303, ex_rew: 1.2324, dis_l: 1.0649
+2021-12-30 04:00:46,323 - St: gail, Ep: 1155, Rew: 152.4723, ag_num: 2, time: 208.4393, final: 263.0706, finish: 0.8132, pol_l: -0.0047, kl: 0.0032, val_l: 14.2065, ag_rew: 0.5237, ex_rew: 1.2435, dis_l: 1.0523
+2021-12-30 04:02:29,270 - St: gail, Ep: 1156, Rew: 159.419, ag_num: 2, time: 211.3333, final: 272.6066, finish: 0.8715, pol_l: -0.0043, kl: 0.0031, val_l: 13.9427, ag_rew: 0.5198, ex_rew: 1.2741, dis_l: 1.0479
+2021-12-30 04:04:13,439 - St: gail, Ep: 1157, Rew: 149.9014, ag_num: 2, time: 203.566, final: 266.1223, finish: 0.8435, pol_l: 0.0038, kl: 0.0179, val_l: 15.36, ag_rew: 0.5392, ex_rew: 1.2376, dis_l: 1.0763
+2021-12-30 04:06:04,608 - St: gail, Ep: 1158, Rew: 124.7741, ag_num: 2, time: 164.5692, final: 250.8201, finish: 0.7583, pol_l: 0.0048, kl: 0.0136, val_l: 16.5063, ag_rew: 0.5281, ex_rew: 1.2716, dis_l: 1.0444
+2021-12-30 04:07:52,283 - St: gail, Ep: 1159, Rew: 150.1551, ag_num: 2, time: 198.1193, final: 261.2395, finish: 0.8012, pol_l: 0.001, kl: 0.0127, val_l: 14.1383, ag_rew: 0.5354, ex_rew: 1.2787, dis_l: 1.0663
+2021-12-30 04:09:41,572 - St: gail, Ep: 1160, Rew: 138.8217, ag_num: 2, time: 179.5124, final: 250.1953, finish: 0.7685, pol_l: 0.0093, kl: 0.0275, val_l: 17.8027, ag_rew: 0.5336, ex_rew: 1.2588, dis_l: 1.0721
+2021-12-30 04:11:25,088 - St: gail, Ep: 1161, Rew: 130.6447, ag_num: 2, time: 179.7833, final: 245.1524, finish: 0.7356, pol_l: 0.0068, kl: 0.0155, val_l: 17.8555, ag_rew: 0.5362, ex_rew: 1.2637, dis_l: 1.0635
+2021-12-30 04:13:10,491 - St: gail, Ep: 1162, Rew: 157.6632, ag_num: 2, time: 215.0825, final: 259.0195, finish: 0.8091, pol_l: 0.0039, kl: 0.0121, val_l: 14.793, ag_rew: 0.5326, ex_rew: 1.2575, dis_l: 1.0711
+2021-12-30 04:14:57,420 - St: gail, Ep: 1163, Rew: 138.6833, ag_num: 2, time: 175.136, final: 246.7258, finish: 0.7645, pol_l: 0.0161, kl: 0.0417, val_l: 15.3347, ag_rew: 0.5264, ex_rew: 1.2757, dis_l: 1.0461
+2021-12-30 04:16:41,564 - St: gail, Ep: 1164, Rew: 158.4317, ag_num: 2, time: 195.1171, final: 265.6243, finish: 0.8317, pol_l: 0.0136, kl: 0.0261, val_l: 14.2221, ag_rew: 0.5316, ex_rew: 1.2708, dis_l: 1.0604
+2021-12-30 04:18:26,969 - St: gail, Ep: 1165, Rew: 145.5552, ag_num: 2, time: 186.0442, final: 261.4053, finish: 0.8442, pol_l: 0.0134, kl: 0.0355, val_l: 15.762, ag_rew: 0.5275, ex_rew: 1.2941, dis_l: 1.0531
+2021-12-30 04:20:13,281 - St: gail, Ep: 1166, Rew: 146.4785, ag_num: 2, time: 187.6404, final: 259.2055, finish: 0.8332, pol_l: 0.0091, kl: 0.0165, val_l: 14.7527, ag_rew: 0.5268, ex_rew: 1.2873, dis_l: 1.0575
+2021-12-30 04:21:59,245 - St: gail, Ep: 1167, Rew: 125.9425, ag_num: 2, time: 159.5662, final: 241.8669, finish: 0.7151, pol_l: 0.0084, kl: 0.0181, val_l: 19.9547, ag_rew: 0.5361, ex_rew: 1.3551, dis_l: 1.0358
+2021-12-30 04:23:44,197 - St: gail, Ep: 1168, Rew: 137.7131, ag_num: 2, time: 174.2846, final: 241.2442, finish: 0.7248, pol_l: 0.0056, kl: 0.0154, val_l: 17.3543, ag_rew: 0.5241, ex_rew: 1.3365, dis_l: 1.0272
+2021-12-30 04:25:29,928 - St: gail, Ep: 1169, Rew: 142.9864, ag_num: 2, time: 181.7627, final: 248.9217, finish: 0.7753, pol_l: 0.0089, kl: 0.0182, val_l: 17.3796, ag_rew: 0.5304, ex_rew: 1.2739, dis_l: 1.0551
+2021-12-30 04:27:10,473 - St: gail, Ep: 1170, Rew: 156.5397, ag_num: 2, time: 193.7963, final: 266.2287, finish: 0.8566, pol_l: 0.0095, kl: 0.0178, val_l: 16.8946, ag_rew: 0.5323, ex_rew: 1.2442, dis_l: 1.0669
+2021-12-30 04:28:55,830 - St: gail, Ep: 1171, Rew: 173.0331, ag_num: 2, time: 211.96, final: 264.4094, finish: 0.826, pol_l: 0.0123, kl: 0.0263, val_l: 17.3578, ag_rew: 0.5291, ex_rew: 1.2492, dis_l: 1.0688
+2021-12-30 04:30:39,569 - St: gail, Ep: 1172, Rew: 148.7391, ag_num: 2, time: 191.1404, final: 262.9174, finish: 0.8249, pol_l: 0.0122, kl: 0.0237, val_l: 16.6257, ag_rew: 0.5373, ex_rew: 1.2418, dis_l: 1.0781
+2021-12-30 04:32:22,933 - St: gail, Ep: 1173, Rew: 161.0, ag_num: 2, time: 216.5392, final: 263.9481, finish: 0.8261, pol_l: 0.0148, kl: 0.0316, val_l: 14.2826, ag_rew: 0.5279, ex_rew: 1.2347, dis_l: 1.0704
+2021-12-30 04:34:05,463 - St: gail, Ep: 1174, Rew: 149.8264, ag_num: 2, time: 201.7264, final: 261.3147, finish: 0.8264, pol_l: 0.0094, kl: 0.0153, val_l: 16.0722, ag_rew: 0.542, ex_rew: 1.2419, dis_l: 1.0755
+2021-12-30 04:35:50,011 - St: gail, Ep: 1175, Rew: 135.898, ag_num: 2, time: 186.6466, final: 254.8969, finish: 0.7721, pol_l: 0.0057, kl: 0.0147, val_l: 16.4159, ag_rew: 0.5418, ex_rew: 1.2441, dis_l: 1.0687
+2021-12-30 04:35:50,011 - stage gail, checkpoints establish, episode 1175
+2021-12-30 04:37:35,791 - St: gail, Ep: 1176, Rew: 141.5993, ag_num: 2, time: 190.5766, final: 248.3496, finish: 0.7587, pol_l: 0.0206, kl: 0.0509, val_l: 17.0138, ag_rew: 0.5349, ex_rew: 1.2779, dis_l: 1.0525
+2021-12-30 04:39:21,112 - St: gail, Ep: 1177, Rew: 142.6851, ag_num: 2, time: 201.1909, final: 268.261, finish: 0.8495, pol_l: 0.0196, kl: 0.052, val_l: 18.6368, ag_rew: 0.5466, ex_rew: 1.2411, dis_l: 1.0812
+2021-12-30 04:41:14,305 - St: gail, Ep: 1178, Rew: 139.2011, ag_num: 2, time: 177.4836, final: 257.7071, finish: 0.8118, pol_l: 0.0209, kl: 0.0525, val_l: 17.3492, ag_rew: 0.5303, ex_rew: 1.2608, dis_l: 1.0548
+2021-12-30 04:43:06,234 - St: gail, Ep: 1179, Rew: 145.7597, ag_num: 2, time: 195.3103, final: 249.7158, finish: 0.7665, pol_l: 0.0175, kl: 0.0334, val_l: 16.7158, ag_rew: 0.5356, ex_rew: 1.2456, dis_l: 1.0726
+2021-12-30 04:44:53,764 - St: gail, Ep: 1180, Rew: 134.9471, ag_num: 2, time: 188.6333, final: 255.4639, finish: 0.7963, pol_l: 0.0099, kl: 0.0159, val_l: 15.2171, ag_rew: 0.5234, ex_rew: 1.3172, dis_l: 1.0431
+2021-12-30 04:46:44,765 - St: gail, Ep: 1181, Rew: 155.9672, ag_num: 2, time: 207.1635, final: 256.8721, finish: 0.8077, pol_l: 0.0052, kl: 0.0199, val_l: 16.7446, ag_rew: 0.5198, ex_rew: 1.3416, dis_l: 1.0366
+2021-12-30 04:48:30,659 - St: gail, Ep: 1182, Rew: 155.6747, ag_num: 2, time: 220.5446, final: 263.2021, finish: 0.8519, pol_l: 0.0184, kl: 0.0507, val_l: 14.9681, ag_rew: 0.5133, ex_rew: 1.3278, dis_l: 1.0406
+2021-12-30 04:50:19,263 - St: gail, Ep: 1183, Rew: 171.2793, ag_num: 2, time: 211.9798, final: 265.6099, finish: 0.8366, pol_l: 0.0224, kl: 0.0526, val_l: 14.7799, ag_rew: 0.5185, ex_rew: 1.3237, dis_l: 1.0345
+2021-12-30 04:52:03,341 - St: gail, Ep: 1184, Rew: 146.1224, ag_num: 2, time: 202.2477, final: 253.8559, finish: 0.7801, pol_l: 0.0198, kl: 0.0467, val_l: 17.2631, ag_rew: 0.5323, ex_rew: 1.2832, dis_l: 1.055
+2021-12-30 04:53:46,695 - St: gail, Ep: 1185, Rew: 130.622, ag_num: 2, time: 185.5841, final: 244.7487, finish: 0.751, pol_l: 0.017, kl: 0.0432, val_l: 19.5555, ag_rew: 0.5321, ex_rew: 1.2639, dis_l: 1.0664
+2021-12-30 04:55:41,354 - St: gail, Ep: 1186, Rew: 145.7848, ag_num: 2, time: 191.6364, final: 246.842, finish: 0.7533, pol_l: 0.0132, kl: 0.0273, val_l: 16.0787, ag_rew: 0.5386, ex_rew: 1.2522, dis_l: 1.0768
+2021-12-30 04:57:31,711 - St: gail, Ep: 1187, Rew: 137.4711, ag_num: 2, time: 193.5478, final: 245.7646, finish: 0.7213, pol_l: 0.0084, kl: 0.0178, val_l: 16.4574, ag_rew: 0.5364, ex_rew: 1.2803, dis_l: 1.0618
+2021-12-30 04:59:21,695 - St: gail, Ep: 1188, Rew: 130.6772, ag_num: 2, time: 203.2661, final: 246.0859, finish: 0.7609, pol_l: 0.006, kl: 0.0168, val_l: 18.2951, ag_rew: 0.5215, ex_rew: 1.3355, dis_l: 1.0468
+2021-12-30 05:01:16,270 - St: gail, Ep: 1189, Rew: 138.6837, ag_num: 2, time: 195.6126, final: 253.8784, finish: 0.785, pol_l: 0.0156, kl: 0.0389, val_l: 16.9649, ag_rew: 0.5046, ex_rew: 1.3401, dis_l: 1.0266
+2021-12-30 05:03:04,656 - St: gail, Ep: 1190, Rew: 141.0291, ag_num: 2, time: 201.0714, final: 243.3704, finish: 0.7626, pol_l: 0.0141, kl: 0.0276, val_l: 16.0705, ag_rew: 0.5208, ex_rew: 1.2883, dis_l: 1.0514
+2021-12-30 05:04:51,012 - St: gail, Ep: 1191, Rew: 145.8614, ag_num: 2, time: 197.2909, final: 271.8236, finish: 0.8946, pol_l: 0.0126, kl: 0.0258, val_l: 14.1537, ag_rew: 0.5342, ex_rew: 1.2566, dis_l: 1.0782
+2021-12-30 05:04:51,013 - stage gail, checkpoints establish, episode 1191
+2021-12-30 05:06:38,383 - St: gail, Ep: 1192, Rew: 156.9972, ag_num: 2, time: 213.8942, final: 273.309, finish: 0.9012, pol_l: 0.021, kl: 0.0516, val_l: 13.1453, ag_rew: 0.5255, ex_rew: 1.277, dis_l: 1.0598
+2021-12-30 05:06:38,383 - stage gail, checkpoints establish, episode 1192
+2021-12-30 05:08:25,942 - St: gail, Ep: 1193, Rew: 153.973, ag_num: 2, time: 202.7685, final: 251.9834, finish: 0.7998, pol_l: 0.0246, kl: 0.0792, val_l: 13.8823, ag_rew: 0.5288, ex_rew: 1.278, dis_l: 1.0686
+2021-12-30 05:10:14,287 - St: gail, Ep: 1194, Rew: 150.9038, ag_num: 2, time: 193.2087, final: 261.9419, finish: 0.823, pol_l: 0.0242, kl: 0.0514, val_l: 14.9775, ag_rew: 0.5043, ex_rew: 1.3604, dis_l: 1.0246
+2021-12-30 05:11:59,243 - St: gail, Ep: 1195, Rew: 158.4156, ag_num: 2, time: 203.945, final: 274.4476, finish: 0.8824, pol_l: 0.0208, kl: 0.0411, val_l: 13.6308, ag_rew: 0.4865, ex_rew: 1.4487, dis_l: 0.9993
+2021-12-30 05:11:59,243 - stage gail, checkpoints establish, episode 1195
+2021-12-30 05:13:43,380 - St: gail, Ep: 1196, Rew: 147.0972, ag_num: 2, time: 187.1111, final: 253.7956, finish: 0.8125, pol_l: 0.0133, kl: 0.0224, val_l: 14.7778, ag_rew: 0.489, ex_rew: 1.5089, dis_l: 0.9893
+2021-12-30 05:15:29,785 - St: gail, Ep: 1197, Rew: 156.6821, ag_num: 2, time: 191.5304, final: 269.777, finish: 0.8746, pol_l: 0.0068, kl: 0.018, val_l: 15.6614, ag_rew: 0.488, ex_rew: 1.5605, dis_l: 0.9713
+2021-12-30 05:17:18,132 - St: gail, Ep: 1198, Rew: 148.4716, ag_num: 2, time: 185.843, final: 249.8551, finish: 0.7877, pol_l: 0.0224, kl: 0.062, val_l: 16.5475, ag_rew: 0.4834, ex_rew: 1.5528, dis_l: 0.9688
+2021-12-30 05:19:05,103 - St: gail, Ep: 1199, Rew: 146.0805, ag_num: 2, time: 178.877, final: 253.2374, finish: 0.7972, pol_l: 0.0313, kl: 0.1028, val_l: 17.0223, ag_rew: 0.4934, ex_rew: 1.5076, dis_l: 0.9933
+2021-12-30 05:20:53,466 - St: gail, Ep: 1200, Rew: 136.6164, ag_num: 2, time: 164.7407, final: 254.7386, finish: 0.7801, pol_l: 0.0345, kl: 0.0953, val_l: 19.1304, ag_rew: 0.5075, ex_rew: 1.414, dis_l: 1.0073
+2021-12-30 05:20:53,466 - stage gail, checkpoints establish, episode 1200
+2021-12-30 05:22:42,871 - St: gail, Ep: 1201, Rew: 143.806, ag_num: 2, time: 179.6098, final: 252.6556, finish: 0.7735, pol_l: 0.0352, kl: 0.0961, val_l: 17.9954, ag_rew: 0.5475, ex_rew: 1.3029, dis_l: 1.0736
+2021-12-30 05:24:25,790 - St: gail, Ep: 1202, Rew: 142.2632, ag_num: 2, time: 185.7333, final: 256.8983, finish: 0.774, pol_l: 0.0296, kl: 0.0674, val_l: 18.8893, ag_rew: 0.5245, ex_rew: 1.2774, dis_l: 1.0525
+2021-12-30 05:26:14,580 - St: gail, Ep: 1203, Rew: 142.2961, ag_num: 2, time: 178.7459, final: 252.7597, finish: 0.7707, pol_l: 0.0285, kl: 0.0644, val_l: 18.3189, ag_rew: 0.5455, ex_rew: 1.2803, dis_l: 1.0682
+2021-12-30 05:28:00,558 - St: gail, Ep: 1204, Rew: 150.1902, ag_num: 2, time: 188.5086, final: 252.217, finish: 0.7726, pol_l: 0.0248, kl: 0.053, val_l: 16.6623, ag_rew: 0.5313, ex_rew: 1.2892, dis_l: 1.0608
+2021-12-30 05:29:43,278 - St: gail, Ep: 1205, Rew: 154.897, ag_num: 2, time: 198.2411, final: 266.8525, finish: 0.8435, pol_l: 0.014, kl: 0.0255, val_l: 17.2201, ag_rew: 0.5112, ex_rew: 1.3268, dis_l: 1.0327
+2021-12-30 05:31:28,059 - St: gail, Ep: 1206, Rew: 159.7797, ag_num: 2, time: 208.7048, final: 262.8197, finish: 0.8059, pol_l: 0.0109, kl: 0.0197, val_l: 15.4881, ag_rew: 0.5055, ex_rew: 1.4286, dis_l: 0.996
+2021-12-30 05:33:11,220 - St: gail, Ep: 1207, Rew: 140.3076, ag_num: 2, time: 207.2273, final: 252.0018, finish: 0.7581, pol_l: 0.0057, kl: 0.0169, val_l: 15.6569, ag_rew: 0.5033, ex_rew: 1.4629, dis_l: 0.9892
+2021-12-30 05:34:52,158 - St: gail, Ep: 1208, Rew: 146.2727, ag_num: 2, time: 188.4397, final: 257.2083, finish: 0.7819, pol_l: 0.0186, kl: 0.0414, val_l: 17.0999, ag_rew: 0.492, ex_rew: 1.461, dis_l: 0.9764
+2021-12-30 05:36:33,723 - St: gail, Ep: 1209, Rew: 133.0361, ag_num: 2, time: 194.5043, final: 245.5181, finish: 0.7605, pol_l: 0.0209, kl: 0.0545, val_l: 19.0457, ag_rew: 0.5102, ex_rew: 1.3729, dis_l: 1.0193
+2021-12-30 05:38:19,298 - St: gail, Ep: 1210, Rew: 147.6997, ag_num: 2, time: 186.887, final: 256.1123, finish: 0.8052, pol_l: 0.029, kl: 0.0794, val_l: 16.1561, ag_rew: 0.521, ex_rew: 1.2767, dis_l: 1.0629
+2021-12-30 05:40:05,031 - St: gail, Ep: 1211, Rew: 142.1227, ag_num: 2, time: 187.3361, final: 256.7496, finish: 0.7786, pol_l: 0.0329, kl: 0.0837, val_l: 14.4078, ag_rew: 0.5265, ex_rew: 1.2712, dis_l: 1.0542
+2021-12-30 05:41:45,172 - St: gail, Ep: 1212, Rew: 140.2189, ag_num: 2, time: 186.0579, final: 274.3218, finish: 0.9089, pol_l: 0.0308, kl: 0.0669, val_l: 15.908, ag_rew: 0.5379, ex_rew: 1.2593, dis_l: 1.0788
+2021-12-30 05:41:45,173 - stage gail, checkpoints establish, episode 1212
+2021-12-30 05:43:34,789 - St: gail, Ep: 1213, Rew: 146.7547, ag_num: 2, time: 175.063, final: 259.0986, finish: 0.7535, pol_l: 0.0274, kl: 0.0613, val_l: 16.5513, ag_rew: 0.5458, ex_rew: 1.2967, dis_l: 1.0717
+2021-12-30 05:45:14,498 - St: gail, Ep: 1214, Rew: 164.3517, ag_num: 2, time: 226.87, final: 270.4437, finish: 0.8822, pol_l: 0.0245, kl: 0.0568, val_l: 17.4041, ag_rew: 0.5455, ex_rew: 1.2717, dis_l: 1.0755
+2021-12-30 05:45:14,498 - stage gail, checkpoints establish, episode 1214
+2021-12-30 05:46:54,205 - St: gail, Ep: 1215, Rew: 158.162, ag_num: 2, time: 205.0463, final: 268.6875, finish: 0.8538, pol_l: 0.0277, kl: 0.0835, val_l: 15.4387, ag_rew: 0.5125, ex_rew: 1.3531, dis_l: 1.0356
+2021-12-30 05:48:44,006 - St: gail, Ep: 1216, Rew: 151.023, ag_num: 2, time: 174.0476, final: 263.8172, finish: 0.8361, pol_l: 0.0214, kl: 0.0384, val_l: 15.2746, ag_rew: 0.5149, ex_rew: 1.397, dis_l: 1.0227
+2021-12-30 05:50:28,989 - St: gail, Ep: 1217, Rew: 145.7132, ag_num: 2, time: 178.4882, final: 250.9451, finish: 0.7965, pol_l: 0.0118, kl: 0.0231, val_l: 17.1574, ag_rew: 0.5127, ex_rew: 1.4101, dis_l: 1.0123
+2021-12-30 05:52:16,606 - St: gail, Ep: 1218, Rew: 152.915, ag_num: 2, time: 173.6984, final: 259.7667, finish: 0.8242, pol_l: 0.0104, kl: 0.0273, val_l: 16.6068, ag_rew: 0.4682, ex_rew: 1.5437, dis_l: 0.9552
+2021-12-30 05:53:59,885 - St: gail, Ep: 1219, Rew: 163.7547, ag_num: 2, time: 188.7542, final: 273.1991, finish: 0.8944, pol_l: 0.023, kl: 0.0506, val_l: 18.4462, ag_rew: 0.4813, ex_rew: 1.5349, dis_l: 0.9779
+2021-12-30 05:53:59,885 - stage gail, checkpoints establish, episode 1219
+2021-12-30 05:55:45,871 - St: gail, Ep: 1220, Rew: 167.0482, ag_num: 2, time: 191.7719, final: 273.1604, finish: 0.9678, pol_l: 0.0249, kl: 0.0571, val_l: 15.2753, ag_rew: 0.4852, ex_rew: 1.505, dis_l: 0.9783
+2021-12-30 05:55:45,871 - stage gail, checkpoints establish, episode 1220
+2021-12-30 05:57:27,989 - St: gail, Ep: 1221, Rew: 159.5615, ag_num: 2, time: 207.3832, final: 278.9589, finish: 0.9204, pol_l: 0.0277, kl: 0.1008, val_l: 17.2591, ag_rew: 0.5129, ex_rew: 1.3796, dis_l: 1.0331
+2021-12-30 05:57:27,989 - stage gail, checkpoints establish, episode 1221
+2021-12-30 05:59:08,535 - St: gail, Ep: 1222, Rew: 168.8835, ag_num: 2, time: 217.6796, final: 285.2321, finish: 0.9417, pol_l: 0.0328, kl: 0.0869, val_l: 16.3855, ag_rew: 0.5215, ex_rew: 1.3055, dis_l: 1.0498
+2021-12-30 05:59:08,535 - stage gail, checkpoints establish, episode 1222
+2021-12-30 06:00:55,529 - St: gail, Ep: 1223, Rew: 142.6013, ag_num: 2, time: 183.8099, final: 256.9137, finish: 0.812, pol_l: 0.0269, kl: 0.0751, val_l: 15.8925, ag_rew: 0.5394, ex_rew: 1.2945, dis_l: 1.0558
+2021-12-30 06:02:42,318 - St: gail, Ep: 1224, Rew: 146.4747, ag_num: 2, time: 199.7368, final: 256.3622, finish: 0.7965, pol_l: 0.0271, kl: 0.0604, val_l: 17.1293, ag_rew: 0.5494, ex_rew: 1.2455, dis_l: 1.0896
+2021-12-30 06:04:25,443 - St: gail, Ep: 1225, Rew: 136.4752, ag_num: 2, time: 179.6508, final: 257.9534, finish: 0.8112, pol_l: 0.0182, kl: 0.0375, val_l: 18.0227, ag_rew: 0.5373, ex_rew: 1.2678, dis_l: 1.0638
+2021-12-30 06:04:25,444 - stage gail, checkpoints establish, episode 1225
+2021-12-30 06:06:11,632 - St: gail, Ep: 1226, Rew: 168.2549, ag_num: 2, time: 215.4272, final: 259.2107, finish: 0.8149, pol_l: 0.0149, kl: 0.0288, val_l: 15.6979, ag_rew: 0.5248, ex_rew: 1.2876, dis_l: 1.0617
+2021-12-30 06:07:59,409 - St: gail, Ep: 1227, Rew: 165.5513, ag_num: 2, time: 211.0648, final: 267.1837, finish: 0.8445, pol_l: 0.011, kl: 0.0179, val_l: 15.2635, ag_rew: 0.5142, ex_rew: 1.3135, dis_l: 1.0351
+2021-12-30 06:09:46,373 - St: gail, Ep: 1228, Rew: 152.2723, ag_num: 2, time: 215.25, final: 265.4364, finish: 0.8365, pol_l: 0.0058, kl: 0.0105, val_l: 15.7278, ag_rew: 0.5135, ex_rew: 1.3205, dis_l: 1.0418
+2021-12-30 06:11:34,158 - St: gail, Ep: 1229, Rew: 139.1285, ag_num: 2, time: 189.9916, final: 262.2198, finish: 0.8258, pol_l: 0.0066, kl: 0.0134, val_l: 14.9768, ag_rew: 0.4991, ex_rew: 1.3851, dis_l: 1.003
+2021-12-30 06:13:21,750 - St: gail, Ep: 1230, Rew: 156.1197, ag_num: 2, time: 198.7043, final: 264.28, finish: 0.8329, pol_l: 0.008, kl: 0.0122, val_l: 14.1796, ag_rew: 0.4856, ex_rew: 1.3826, dis_l: 0.9883
+2021-12-30 06:15:08,908 - St: gail, Ep: 1231, Rew: 148.3147, ag_num: 2, time: 188.5167, final: 257.5659, finish: 0.7988, pol_l: 0.0088, kl: 0.0181, val_l: 14.6771, ag_rew: 0.4857, ex_rew: 1.4313, dis_l: 0.9768
+2021-12-30 06:16:58,111 - St: gail, Ep: 1232, Rew: 160.3635, ag_num: 2, time: 192.6471, final: 263.1885, finish: 0.8203, pol_l: 0.0118, kl: 0.0289, val_l: 16.3628, ag_rew: 0.4803, ex_rew: 1.4131, dis_l: 0.9771
+2021-12-30 06:18:46,079 - St: gail, Ep: 1233, Rew: 138.2693, ag_num: 2, time: 183.5891, final: 264.3893, finish: 0.8189, pol_l: 0.011, kl: 0.022, val_l: 16.6189, ag_rew: 0.4902, ex_rew: 1.4151, dis_l: 0.9804
+2021-12-30 06:20:25,796 - St: gail, Ep: 1234, Rew: 160.4999, ag_num: 2, time: 216.6132, final: 266.6519, finish: 0.8472, pol_l: 0.0215, kl: 0.0644, val_l: 15.0719, ag_rew: 0.5019, ex_rew: 1.4151, dis_l: 1.0059
+2021-12-30 06:22:09,551 - St: gail, Ep: 1235, Rew: 167.7141, ag_num: 2, time: 200.0796, final: 273.446, finish: 0.8963, pol_l: 0.0321, kl: 0.1087, val_l: 16.9053, ag_rew: 0.4838, ex_rew: 1.4278, dis_l: 0.986
+2021-12-30 06:23:51,910 - St: gail, Ep: 1236, Rew: 146.4375, ag_num: 2, time: 190.1557, final: 267.2316, finish: 0.8467, pol_l: 0.0408, kl: 0.1269, val_l: 15.525, ag_rew: 0.48, ex_rew: 1.4453, dis_l: 0.9746
+2021-12-30 06:25:31,283 - St: gail, Ep: 1237, Rew: 155.7243, ag_num: 2, time: 186.9328, final: 269.6324, finish: 0.853, pol_l: 0.0476, kl: 0.1749, val_l: 16.1701, ag_rew: 0.47, ex_rew: 1.489, dis_l: 0.9543
+2021-12-30 06:27:13,597 - St: gail, Ep: 1238, Rew: 152.0708, ag_num: 2, time: 171.5385, final: 260.8944, finish: 0.8109, pol_l: 0.0451, kl: 0.1509, val_l: 17.08, ag_rew: 0.4527, ex_rew: 1.5951, dis_l: 0.9184
+2021-12-30 06:28:56,563 - St: gail, Ep: 1239, Rew: 138.5582, ag_num: 2, time: 158.7626, final: 259.9645, finish: 0.8147, pol_l: 0.0499, kl: 0.1472, val_l: 19.3676, ag_rew: 0.4698, ex_rew: 1.6917, dis_l: 0.9236
+2021-12-30 06:30:42,355 - St: gail, Ep: 1240, Rew: 154.3049, ag_num: 2, time: 181.5156, final: 258.4536, finish: 0.8038, pol_l: 0.0431, kl: 0.106, val_l: 17.135, ag_rew: 0.4651, ex_rew: 1.7029, dis_l: 0.9248
+2021-12-30 06:32:29,528 - St: gail, Ep: 1241, Rew: 123.5091, ag_num: 2, time: 140.0909, final: 235.7091, finish: 0.6883, pol_l: 0.0374, kl: 0.1123, val_l: 21.294, ag_rew: 0.4326, ex_rew: 1.8303, dis_l: 0.8744
+2021-12-30 06:34:15,909 - St: gail, Ep: 1242, Rew: 134.4981, ag_num: 2, time: 146.5752, final: 243.029, finish: 0.7525, pol_l: 0.0245, kl: 0.0394, val_l: 20.8054, ag_rew: 0.4236, ex_rew: 1.8721, dis_l: 0.8576
+2021-12-30 06:36:01,293 - St: gail, Ep: 1243, Rew: 135.0243, ag_num: 2, time: 151.8289, final: 238.6575, finish: 0.7186, pol_l: 0.0136, kl: 0.024, val_l: 17.4257, ag_rew: 0.4008, ex_rew: 2.0142, dis_l: 0.8054
+2021-12-30 06:37:46,836 - St: gail, Ep: 1244, Rew: 130.6464, ag_num: 2, time: 139.6438, final: 243.6494, finish: 0.715, pol_l: 0.0188, kl: 0.0432, val_l: 19.392, ag_rew: 0.3783, ex_rew: 2.1213, dis_l: 0.7739
+2021-12-30 06:39:42,493 - St: gail, Ep: 1245, Rew: 135.2798, ag_num: 2, time: 152.8649, final: 256.0271, finish: 0.7967, pol_l: 0.0316, kl: 0.0799, val_l: 20.8536, ag_rew: 0.395, ex_rew: 2.0694, dis_l: 0.8059
+2021-12-30 06:41:32,391 - St: gail, Ep: 1246, Rew: 139.2083, ag_num: 2, time: 147.7432, final: 254.2405, finish: 0.771, pol_l: 0.043, kl: 0.1317, val_l: 17.8319, ag_rew: 0.409, ex_rew: 1.9992, dis_l: 0.8421
+2021-12-30 06:43:24,826 - St: gail, Ep: 1247, Rew: 139.0567, ag_num: 2, time: 147.7635, final: 246.9067, finish: 0.7556, pol_l: 0.056, kl: 0.173, val_l: 20.0014, ag_rew: 0.4203, ex_rew: 1.8659, dis_l: 0.8666
+2021-12-30 06:45:14,388 - St: gail, Ep: 1248, Rew: 138.9644, ag_num: 2, time: 159.9858, final: 258.2019, finish: 0.8176, pol_l: 0.0644, kl: 0.2474, val_l: 18.4991, ag_rew: 0.4737, ex_rew: 1.6712, dis_l: 0.9454
+2021-12-30 06:47:05,842 - St: gail, Ep: 1249, Rew: 129.557, ag_num: 2, time: 156.1736, final: 245.0503, finish: 0.7453, pol_l: 0.0636, kl: 0.3136, val_l: 22.286, ag_rew: 0.4526, ex_rew: 1.5929, dis_l: 0.9236
+2021-12-30 06:48:59,146 - St: gail, Ep: 1250, Rew: 140.241, ag_num: 2, time: 164.7444, final: 238.1441, finish: 0.7229, pol_l: 0.0725, kl: 0.307, val_l: 19.6452, ag_rew: 0.4664, ex_rew: 1.5638, dis_l: 0.9438
+2021-12-30 06:48:59,147 - stage gail, checkpoints establish, episode 1250
+2021-12-30 06:50:50,744 - St: gail, Ep: 1251, Rew: 148.9551, ag_num: 2, time: 177.627, final: 254.253, finish: 0.799, pol_l: 0.0813, kl: 0.3131, val_l: 17.725, ag_rew: 0.4315, ex_rew: 1.5911, dis_l: 0.8878
+2021-12-30 06:52:39,271 - St: gail, Ep: 1252, Rew: 149.2092, ag_num: 2, time: 190.3529, final: 256.7077, finish: 0.8135, pol_l: 0.0721, kl: 0.3386, val_l: 19.9342, ag_rew: 0.4279, ex_rew: 1.6435, dis_l: 0.8922
+2021-12-30 06:54:29,684 - St: gail, Ep: 1253, Rew: 142.9231, ag_num: 2, time: 185.7805, final: 268.2925, finish: 0.8364, pol_l: 0.0703, kl: 0.3124, val_l: 19.9431, ag_rew: 0.3783, ex_rew: 1.8532, dis_l: 0.7923
